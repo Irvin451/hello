@@ -8,4 +8,5 @@ int main()
     cout << "Tags " << endl;
     cout << "head " << endl;
     return 0; 
+   //Author: Konstantin Zolotuhin (bloodyraven451@gmail.com)
 }
